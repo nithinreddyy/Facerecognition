@@ -1,0 +1,1 @@
+Hello i just wrote the code for predictio n of face and for face recognition and i used CASIO Webface loss function. Thank you.
